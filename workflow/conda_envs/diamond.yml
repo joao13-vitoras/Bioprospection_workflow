@@ -1,0 +1,9 @@
+name: diamond
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - default
+dependencies:
+  - diamond
+  - biopython

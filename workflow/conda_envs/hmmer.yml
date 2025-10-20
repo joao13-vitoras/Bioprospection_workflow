@@ -1,0 +1,9 @@
+name: hmmer
+channels:
+  - conda-forge
+  - nanoporetech
+  - bioconda
+  - defaults
+dependencies:
+  - hmmer
+  - mafft

@@ -1,0 +1,15 @@
+name: amplify
+channels:
+  - conda-forge
+  - anaconda
+  - nvidia
+  - xformers
+  - defaults
+dependencies:
+  - pytorch
+  - xformers
+  - transformers
+  - tqdm
+  - nvidia-ml-py
+  - biopython
+  - matplotlib

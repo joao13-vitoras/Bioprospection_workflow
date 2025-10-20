@@ -1,0 +1,9 @@
+name: faiss
+channels:
+  - conda-forge
+dependencies:
+  - pytorch
+  - numpy
+  - faiss
+  - libblas=*=*mkl
+  - tqdm

@@ -1,0 +1,8 @@
+name: protein_download
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - requests
+  - tqdm
